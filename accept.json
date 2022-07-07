@@ -141,13 +141,17 @@
             "**/go.sum",
             "**%2Fgo.sum",
             "**/*Dockerfile*",
-            "**%2F*Dockerfile*"
-            "**/*.yaml"
-            "**%2F*.yaml"
-            "**/*.yml"
-            "**%2F*.yml"
-            "**/*.json"
-            "**%2F*.json"
+            "**%2F*Dockerfile*",
+            "**/*.yaml",
+            "**%2F*.yaml",
+            "**/*.yml",
+            "**%2F*.yml",
+            "**/*.json",
+            "**%2F*.json",
+            "**/*.tf",
+            "**%2F*.tf",
+            "**.tpl",
+            "**2F*.tpl"
           ]
         },
         {
@@ -232,13 +236,17 @@
             "**/go.sum",
             "**%2Fgo.sum",
             "**/*Dockerfile*",
-            "**%2F*Dockerfile*"
-            "**/*.yaml"
-            "**%2F*.yaml"
-            "**/*.yml"
-            "**%2F*.yml"
-            "**/*.json"
-            "**%2F*.json"
+            "**%2F*Dockerfile*",
+            "**/*.yaml",
+            "**%2F*.yaml",
+            "**/*.yml",
+            "**%2F*.yml",
+            "**/*.json",
+            "**%2F*.json",
+            "**/*.tf",
+            "**%2F*.tf",
+            "**.tpl",
+            "**2F*.tpl"
           ]
         },
         {
